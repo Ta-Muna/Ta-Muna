@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tamari Pilia (Ta-Muna)</h1>
-<h3 align="center">Recently graduated web Developer, moreover I am a Spanish Philologist from Sakartvelo (Georgia). Languages are my passion - other than English and Spanish, I speak Russian and, my mother tongue is Kartuli (Georgian).At this moment I am learning German. I worked in a tour agency as Spanish speaking tour operator and I decided to chaise my dreams and learn more than human language. I tryed coding and immediately fell in love. I’m currently seeking new opportunities in tech world. Love spending time with my family and friends. I'm passionate about: Cooking & Baking 👩‍🍳🍳, Tennis 🎾, Exercising 🏋️‍♀️🏃‍♀️ , Swimming 🏊‍♀️ , Education 📚, Music 🎶, Travel ✈️, Movies 🎞️, Photography 📸 and Meeting new people 👋</h3>
+<br>
+<h3 align="center">Recently graduated web Developer, moreover I am a Spanish Philologist from Sakartvelo (Georgia). 
+<br>
+Languages are my passion - other than English and Spanish, I speak Russian and, my mother tongue is Kartuli (Georgian).At this moment I am learning German. 
+<br> 
+I worked in a tour agency as Spanish speaking tour operator and I decided to chaise my dreams and learn more than human language. I tryed coding and immediately fell in love. I’m currently seeking new opportunities in tech world. 
+
+<br?> 
+Love spending time with my family and friends. I'm passionate about: Cooking & Baking 👩‍🍳🍳, Tennis 🎾, Exercising 🏋️‍♀️🏃‍♀️ , Swimming 🏊‍♀️ , Education 📚, Music 🎶, Travel ✈️, Movies 🎞️, Photography 📸 and Meeting new people 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ta-muna&label=Profile%20views&color=0e75b6&style=flat" alt="ta-muna" /> </p>
 
